@@ -1,1 +1,1 @@
-# get-fit-ai-backend
+// README.md placeholder content
